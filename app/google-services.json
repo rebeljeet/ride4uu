@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790969261996",
+    "firebase_url": "https://ride4u-ac3f8.firebaseio.com",
+    "project_id": "ride4u-ac3f8",
+    "storage_bucket": "ride4u-ac3f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790969261996:android:cc99af79e16fce5c0ae409",
+        "android_client_info": {
+          "package_name": "com.android.ride4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790969261996-igfpk9pf624lue173g5sslpoaebsf65c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.ride4u",
+            "certificate_hash": "49099aea1b6a212a1ec6e90b86123407c6cf59d0"
+          }
+        },
+        {
+          "client_id": "790969261996-ifilodgfcp8nciqn5dtqkfcakgc2n1t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADyB8vWKibi7fYq2cj6ptAW5O18gIkez4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790969261996-ifilodgfcp8nciqn5dtqkfcakgc2n1t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
